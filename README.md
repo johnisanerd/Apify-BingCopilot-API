@@ -253,10 +253,14 @@ ChatGPT connects to the Apify MCP server through Developer mode (available on Ch
 
 More help: https://docs.apify.com/platform/integrations/mcp
 
+## n8n integration
+
+Prefer [n8n](https://n8n.io)? This API is also available as a community node, **[n8n-nodes-bing-copilot-api](https://www.npmjs.com/package/n8n-nodes-bing-copilot-api)**. In n8n, go to **Settings > Community Nodes**, install `n8n-nodes-bing-copilot-api`, then use it in any workflow. It also works as an AI Agent tool.
+
 ---
 
 [**Made with care**](https://apify.com/johnvc?fpr=9n7kx3)
 
 *Use the Bing Copilot API to power your data workflows with reliable, structured results.*
 
-Last Updated: 2026.07.10
+Last Updated: 2026.07.11
