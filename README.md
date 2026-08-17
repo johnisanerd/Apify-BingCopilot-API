@@ -5,7 +5,7 @@
 **Actor page:** [apify.com/johnvc/bing-copilot-api](https://apify.com/johnvc/bing-copilot-api?fpr=9n7kx3)
 **Input schema:** [apify.com/johnvc/bing-copilot-api/input-schema](https://apify.com/johnvc/bing-copilot-api/input-schema?fpr=9n7kx3)
 
-This API resolves any query to Bing Copilot's AI answer: the headline summary, the full structured answer (headings, lists, tables, code), every cited reference, and an optional brand-mention check. It is built for answer engine optimization (AEO) and generative engine optimization (GEO): tracking what Microsoft's answer engine says, which sources it trusts, and whether your brand shows up. It is the Bing engine in a four-part AEO suite alongside Google AI Overview, Naver AI Overview, and Brave AI Mode.
+This API resolves any query to Bing Copilot's AI answer: the headline summary, the full structured answer (headings, lists, tables, code), every cited reference, and an optional brand-mention check. It is built for answer engine optimization (AEO) and generative engine optimization (GEO): tracking what Microsoft's answer engine says, which sources it trusts, and whether your brand shows up. It is the Bing engine in a four-part AEO suite alongside [Google AI Overview](https://apify.com/johnvc/Google-AI-Overview-API?fpr=9n7kx3), [Naver AI Overview](https://apify.com/johnvc/naver-ai-overview-api?fpr=9n7kx3), and [Brave AI Mode](https://apify.com/johnvc/brave-ai-mode-api?fpr=9n7kx3).
 
 ## Video Walkthrough
 
