@@ -263,4 +263,4 @@ Prefer [n8n](https://n8n.io)? This API is also available as a community node, **
 
 *Use the Bing Copilot API to power your data workflows with reliable, structured results.*
 
-Last Updated: 2026.08.19
+Last Updated: 2026.08.23
