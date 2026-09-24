@@ -263,4 +263,15 @@ Prefer [n8n](https://n8n.io)? This API is also available as a community node, **
 
 *Use the Bing Copilot API to power your data workflows with reliable, structured results.*
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Bing Copilot AI Answers API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Bing%20Copilot%20AI%20Answers%20API%20on%20Apify%20%28https://apify.com/johnvc/bing-copilot-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22AEO%20Tracking:%20Your%20Brand%20in%20Bing%20Copilot%20Answers%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Bing%20Copilot%20AI%20Answers%20API%20on%20Apify%20%28https://apify.com/johnvc/bing-copilot-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22AEO%20Tracking:%20Your%20Brand%20in%20Bing%20Copilot%20Answers%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Bing%20Copilot%20AI%20Answers%20API%20on%20Apify%20%28https://apify.com/johnvc/bing-copilot-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22AEO%20Tracking:%20Your%20Brand%20in%20Bing%20Copilot%20Answers%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Bing%20Copilot%20AI%20Answers%20API%20on%20Apify%20%28https://apify.com/johnvc/bing-copilot-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22AEO%20Tracking:%20Your%20Brand%20in%20Bing%20Copilot%20Answers%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 Last Updated: 2026.09.22
